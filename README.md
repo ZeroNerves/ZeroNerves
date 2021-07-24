@@ -8,3 +8,4 @@
 ZeroNerves/ZeroNerves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+I have created this account for freecodecamp. It's going to be empty for a while now.
