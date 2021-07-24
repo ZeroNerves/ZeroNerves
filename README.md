@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZeroNerves
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript on Google grasshopper (it's ok, you can laugh. I'm getting my feet wet.)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
